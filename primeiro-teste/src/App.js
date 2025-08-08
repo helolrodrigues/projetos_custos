@@ -10,6 +10,7 @@ function App() {
       <HelloWorld/>
       <Frases/>
       <DigaMeuNome nome="Anderson"/>
+      <p>Outro paragrafo</p>
       
 
     </div>
